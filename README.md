@@ -8,8 +8,8 @@
 Este repositorio contiene la solución al Taller 1 del curso Machine Learning Applied, aplicando el ciclo
 completo de un proyecto de ML supervisado sobre dos problemas:
 
-- **Regresión** — predicción de precios de viajes de Uber/taxi en Nueva York (`taller1_regresion_uber.ipynb`)
-- **Clasificación** — diagnóstico de enfermedad tiroidea (`taller1_clasificacion_thyroid.ipynb`)
+- **Regresión** — predicción de precios de viajes de Uber/taxi en Nueva York (`TalleRegresion.ipynb`)
+- **Clasificación** — diagnóstico de enfermedad tiroidea (`TallerClasificacion_thyroid.ipynb`)
 
 ## Contenido
 
