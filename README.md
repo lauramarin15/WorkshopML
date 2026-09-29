@@ -9,7 +9,7 @@ Este repositorio contiene la solución al Taller 1 del curso Machine Learning Ap
 completo de un proyecto de ML supervisado sobre dos problemas:
 
 - **Regresión** — predicción de precios de viajes de Uber/taxi en Nueva York (`TalleRegresion.ipynb`)
-- **Clasificación** — diagnóstico de enfermedad tiroidea (`TallerClasificacion_thyroid.ipynb`)
+- **Clasificación** — diagnóstico de enfermedad tiroidea (`TallerClasificacion.ipynb`)
 
 ## Contenido
 
